@@ -1,14 +1,11 @@
 ### Daria Brusnitsina
-*****
 ### Contacts:
 - **Telegram:** @dariabru
 - **E-mail:** dbrusnitsina@gmail.com
 - **Discord:** Daria#5652
 - **GitHub:** [DariaBrusnitsina](https://github.com/DariaBrusnitsina)
-*****
 ### About:
 I graduated from the bachelor's and master's programs at the Faculty of Philosophy of Moscow State University. I like to learn and systematize knowledge, as well as get practical results from my work. Front-end development perfectly suits my requirements for the profession.
-*****
 ### Skills:
 - HTML5
 - CSS3 + SASS/SCSS, BEM, Bootstrap
@@ -19,7 +16,7 @@ I graduated from the bachelor's and master's programs at the Faculty of Philosop
 - VScode, WebStorm, IDLE
 - Python (basic knowledge)
 - Figma (basic knowledge)
-*****
+
 ### Code example:
 ```
 board.addEventListener("click", event => {
@@ -43,15 +40,12 @@ board.addEventListener("click", event => {
    }
 })
 ```
-*****
 ### Experiance:
 - Game for a hackathon on pure JS [Potion game](https://github.com/DariaBrusnitsina/Potion-game)
-*****
 ### Education:
 - **An Introduction to Python-Based Programming** (MSU training course)
 - **Test drive of the Frontend developer profession** (Result School mini-course)
 - **5 days 5 JavaScript projects** (Result School marathon)
-*****
 ### Languages:
 - Russian – native
 - **English – upper-intermediat**
